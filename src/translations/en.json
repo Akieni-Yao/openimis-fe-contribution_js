@@ -29,6 +29,7 @@
     "contribution.payType.B": "Bank Transfer",
     "contribution.payType.C": "Cash",
     "contribution.payType.M": "Mobile Phone",
+    "contribution.payType.BC": "Bank Cheque",
     "contribution.payType.null": "Any",
     "contribution.PoliciesPremiums": "{count} Contributions",
     "contribution.PoliciesPremiumsOfPolicy": "{count} Contributions of Policy {policy}",
